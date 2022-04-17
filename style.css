@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    color: #0C07FF;
+}
+
+nav {
+    background-color: #0C07FF;
+    padding: 15px;
+    font-size: 25px;
+    color: white;
+}
+
+nav a {
+    color: white;
+    border-radius: 0px;
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid red;
+    padding: 10px;
+    margin: 5px;
+    background-color: red;
+}
+
+footer {
+    background-color: #FFEB00;
+    text-align: center;
+}
+
+main {
+    text-align: left;
+}
+
+h1,h2 {
+    text-align: center;
+}
+
+.omlet {
+    text-align: right;
+}
+
+h4 {
+    text-align: right;
+}
+
+h5 {
+    font-size: 25px;
+}
